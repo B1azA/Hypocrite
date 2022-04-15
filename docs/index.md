@@ -8,11 +8,11 @@
 - Konzoli nevypínejte tlačítkem, ale v systému konzole.
 - Prosíme abyste konzoli záměrně nepoškozovali a používali ji uvědoměle.
 - Budeme rádi pokud nám na konzoli dáte zpětnou vazbu a případné vylepšení.
-- 
+
 # Jak používat UI konzole
 - Nastavení a správa konzole je v bloku úplně vlevo.
 - Hry a aplikace jsou v pravé části rozřazené podle konzolí na které jsou hry určeny (NES, SNES, Genesis, ...).
-- 
+
 # Dostupné hry
 
 ## NES
