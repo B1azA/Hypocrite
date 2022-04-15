@@ -11,8 +11,8 @@
 - Hry a aplikace jsou v pravé části rozřazené podle konzolí na které jsou hry určeny (NES, SNES, Genesis, ...).
 # Dostupné hry
 ## NES
-- Contra = *střílečka pro jednoho až dva hráče* 
-<img src="https://www.svetandroida.cz/media/2018/02/NES-hry-Contra.jpg" width="50%" height="50%">
+- Contra = *střílečka pro jednoho až dva hráče*
+- <img src="https://www.svetandroida.cz/media/2018/02/NES-hry-Contra.jpg" width="20%" height="20%">
 - Kirby's Adventure = *platformovka pro jednoho hráče*
 - Legend of Zelda = *RPG pro jednoho hráče*
 - Mega Man 5 = *střílečka pro jednoho hráče*
