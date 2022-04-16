@@ -7,10 +7,11 @@
 - Zapojujte pouze do 5ti Voltové nabíječky s 2.5 Ampéry.
 - Konzoli nevypínejte tlačítkem, ale v systému konzole.
 - Tlačítko slouží pouze na zapnutí konzole nebo k nouzovému restartu.
-- Prosíme abyste konzoli záměrně nepoškozovali a používali ji uvědoměle.
-- Budeme rádi pokud nám na konzoli dáte zpětnou vazbu a případné vylepšení.
+- Budeme rádi pokud nám na konzoli dáte zpětnou vazbu a sdělíte nápady na případné vylepšení.
 
 # Jak používat UI konzole
+- V menu se pohybujte joystickem nebo d-padem.
+- Akci potvrdíte tlačítkem ***B*** a vrátíte se tlačítkem ***A***.
 - Nastavení a správa konzole je v bloku úplně vlevo.
 - Hry a aplikace jsou v pravé části rozřazené podle konzolí na které jsou hry určeny (NES, SNES, Genesis, ...).
 
@@ -42,6 +43,39 @@
 > <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Mspacman.png/220px-Mspacman.png" width="40%" height="40%">
 - Pole Position = *závodní hra 1H*
 > <img src="https://i1.sndcdn.com/artworks-8YnYCB4iazGbr0JZ-ExacBQ-t500x500.jpg" width="40%" height="40%">
+  
+</details>
+
+## Game Boy Advance
+
+<details>
+  
+- Doom = *střílečka 1H*
+> <img src="https://static.wikia.nocookie.net/doom/images/0/0f/Gba1.gif/revision/latest?cb=20090401183350" width="40%" height="40%">
+- Doom II = *střílečka 1H*
+> <img src="https://i.ytimg.com/vi/zYNo9eApS_o/maxresdefault.jpg" width="40%" height="40%">
+- The Legend of Zelda: A Link to the Past & Four swords = *RPG 1H*
+> <img src="https://www.retrogames.cz/games/283/SNES_01.gif" width="40%" height="40%">
+- The Legend of Zelda: The Minish Cap = *RPG 1H*
+> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MinishCap.png/220px-MinishCap.png" width="40%" height="40%">
+- Mario & Luigi: Superstar Saga = *RPG 1H*
+> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/MarioAndLuigiSuperstarSagaGBABattle.png/220px-MarioAndLuigiSuperstarSagaGBABattle.png" width="40%" height="40%"> 
+- Mario Kart: Super Circuit = *závodní hra 1-2H*
+> <img src="http://1.bp.blogspot.com/-2aQPnwX6uko/Tv66F6-BxqI/AAAAAAAAAms/fr_twzJTSR4/s1600/Mario+Kart+Super+Circuit.jpg" width="40%" height="40%">  
+- Pokemon: Emerald Version = *RPG 1H*
+> <img src="https://fs-prod-cdn.nintendo-europe.com/media/images/migration/games_7/screenshots/gameboy_advance/pokmon_emerald/pokmon_emerald_8.jpg" width="40%" height="40%"> 
+- Pokemon: FireRed Version = *RPG 1H*
+> <img src="https://assets.pokemon.com/assets/cms/img/video-games/fireredleafgreen/screenshots/firered_leafgreen_ss1.jpg" width="40%" height="40%">
+- Rayman: 10th Anniversary = *platformovka 1H*
+> <img src="https://gamefabrique.com/storage/screenshots/ps2/rayman-10th-anniversary-08.png" width="40%" height="40%">
+- Super Mario Advance = *platformovka 1H*
+> <img src="https://m.media-amazon.com/images/I/51FT1YDAuOL.jpg" width="40%" height="40%">
+- Super Mario Advance 2: Super Mario World = *platformovka 1H*
+> <img src="https://s.uvlist.net/l/y2006/04/14300.jpg" width="40%" height="40%">
+- Super Mario Advance 3: Yoshi's Island = *platformovka 1H*
+> <img src="https://www.mobygames.com/images/promo/original/1548356150-3554788663.jpg" width="40%" height="40%">
+- Super Mario Advance 4: Super Mario Bros 3 = *platformovka 1H*
+> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Super_Mario_Advance_4_screenshot.png/220px-Super_Mario_Advance_4_screenshot.png" width="40%" height="40%">
   
 </details>
 
