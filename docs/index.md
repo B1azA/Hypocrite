@@ -118,7 +118,7 @@
 > <img src="https://cdn.vox-cdn.com/thumbor/SRhDwS0dV41zu2-WEnxCZ-EjrUw=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/13247741/DpJgQJmU0AAyQFs.jpg" width="40%" height="40%">
 - Mega Man 5 = *střílečka 1H*
 > <img src="https://emu-russia.net/gdb/nes/Megaman_V_5.png" width="40%" height="40%">
-- Metroid = *střílečka 1He*
+- Metroid = *střílečka 1H*
 > <img src="https://www.cdh.cz/galerie/22608-1.jpg" width="40%" height="40%">
 - Mike Tyson's Punch-Out!! = *boxovací hra 1H*
 > <img src="https://www.everything80spodcast.com/wp-content/uploads/2019/08/mike-tysons-punch-out-tyson-e1507021527866.jpg" width="40%" height="40%">
