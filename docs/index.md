@@ -172,7 +172,15 @@
 > <img src="https://i.ytimg.com/vi/yB317FOcU0Y/hqdefault.jpg" width="40%" height="40%">
 - Super Street Fighter II = *mlátička 1-8H*
 > <img src="https://www.retrogames.cz/games/919/SNES_01.gif" width="40%" height="40%">
-- Wolfenstein III = *střílečka 1H*
+- Wolfenstein 3-D = *střílečka 1H*
+> <img src="https://i.ytimg.com/vi/wRVdtZi0Hgo/hqdefault.jpg" width="40%" height="40%">
+  
+</details>
+
+## Sega Genesis
+<details>
+  
+- Cas = *střílečka 1H*
 > <img src="https://static.wikia.nocookie.net/wolfenstein/images/8/84/Hitlerdeathsnes.png/revision/latest?cb=20081211043233" width="40%" height="40%">
   
 </details>
