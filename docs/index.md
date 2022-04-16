@@ -18,6 +18,7 @@
 ## NES
 
 <details>
+  <summary>Více</summary>
 
 - Contra = *střílečka pro jednoho až dva hráče*
 > <img src="https://www.svetandroida.cz/media/2018/02/NES-hry-Contra.jpg" width="20%" height="20%">
