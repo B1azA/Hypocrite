@@ -79,6 +79,31 @@
   
 </details>
 
+## Game Boy
+
+<details>
+  
+- Dr. Mario = *zabij viry 1-2H*
+> <img src="https://gamefaqs.gamespot.com/a/screen/full/2/3/5/70235.jpg" width="40%" height="40%">
+- Final Fantasy Adventure = *RPG 1H*
+> <img src="https://i.ytimg.com/vi/di5Vhk3AEUc/hqdefault.jpg" width="40%" height="40%">
+- Pokemon: Blue version = *RPG 1H*
+> <img src="https://www.retrogames.cz/games/284/GB_01.gif" width="40%" height="40%">
+- Pokemon: Red version = *RPG 1H*
+> <img src="https://www.retrogames.cz/games/285/GB_00.gif" width="40%" height="40%"> 
+- Pokemon: Yellow version = *RPG 1H*
+> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpyq5RDq-jw3k2x2zh8VMemNgOYQhQYFavoiD_SUuSHsLtlwvnvo9MiDScs8h0HsqKG-4&usqp=CAU" width="40%" height="40%">
+- Super Mario Land = *platformovka 1H*
+> <img src="https://www.retrogames.cz/games/145/GB_01.gif" width="40%" height="40%">
+- Super Mario Land 2: 6 Golden Coins = *platformovka 1H*
+> <img src="https://www.retrogames.cz/games/146/GB_01.gif" width="40%" height="40%">
+- Wario Land: Super Mario Land 3 = *platformovka 1H*
+> <img src="https://img.delvenetworks.com/gdX9KjCLT1wmBYosX6fyt0/6BjmXRMDTDYtY3Kbtcd-ds/twm.540x324.jpeg" width="40%" height="40%">
+- Wario Land II = *platformovka 1H*
+> <img src="https://www.retrogamer.net/wp-content/uploads/2013/10/wario_land_2_gbc_screenshot2.gif" width="40%" height="40%">
+  
+</details>
+
 ## NES
 
 <details>
