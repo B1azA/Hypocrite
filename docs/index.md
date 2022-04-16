@@ -51,7 +51,7 @@
 <details>
   
 - Doom = *střílečka 1H*
-> <img src="https://static.wikia.nocookie.net/doom/images/0/0f/Gba1.gif/revision/latest?cb=20090401183350" width="40%" height="40%">
+> <img src="https://i.ytimg.com/vi/ME71RF1rCfI/hqdefault.jpg" width="40%" height="40%">
 - Doom II = *střílečka 1H*
 > <img src="https://i.ytimg.com/vi/zYNo9eApS_o/maxresdefault.jpg" width="40%" height="40%">
 - The Legend of Zelda: A Link to the Past & Four swords = *RPG 1H*
@@ -72,7 +72,8 @@
 > <img src="https://m.media-amazon.com/images/I/51FT1YDAuOL.jpg" width="40%" height="40%">
 - Super Mario Advance 2: Super Mario World = *platformovka 1H*
 > <img src="https://s.uvlist.net/l/y2006/04/14300.jpg" width="40%" height="40%">
-- Super Mario Advance 3: Yoshi's Island = *platformovka 1H*
+- Super Mario Advance 3: 
+  i's Island = *platformovka 1H*
 > <img src="https://www.mobygames.com/images/promo/original/1548356150-3554788663.jpg" width="40%" height="40%">
 - Super Mario Advance 4: Super Mario Bros 3 = *platformovka 1H*
 > <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Super_Mario_Advance_4_screenshot.png/220px-Super_Mario_Advance_4_screenshot.png" width="40%" height="40%">
@@ -131,4 +132,47 @@
 - Zelda II - The adventure of Link = *RPG 1H*
 > <img src="https://i.ytimg.com/vi/WQuRIrnD2y4/maxresdefault.jpg" width="40%" height="40%">
 
+</details>
+
+## SNES
+
+<details>
+
+- Alien vs Predator = *mlátička 1H*
+> <img src="https://i0.wp.com/forgottentreasuresgames.com/wp-content/uploads/2020/12/AVP-SNES-11.gif?fit=350%2C305&ssl=1" width="40%" height="40%">
+- Chrono Trigger = *RPG 1H*
+> <img src="https://thumbor.forbes.com/thumbor/711x552/https://specials-images.forbesimg.com/imageserve/5e67f54f7d6f2600068f2775/The-teleporter-in-Chrono-Trigger--where-Marle-disappears-/960x0.jpg?fit=scale" width="40%" height="40%">
+- Donkey Kong Country = *platformovka 1-2H*
+> <img src="https://images.eurogamer.net/2014/usgamer/dkc-spot3.gif/EG11/resize/700x-1/format/jpg/quality/70" width="40%" height="40%">
+- EarthBound = *RPG 1H*
+> <img src="https://www.retrogames.cz/games/882/SNES_03.gif" width="40%" height="40%">
+- Kirby Super Star = *platformovka 1H*
+> <img src="https://www.retrogames.cz/games/802/SNES_01.gif" width="40%" height="40%">
+- The Legend of Zelda: A Link to the Past = *RPG 1H*
+> <img src="https://www.retrogames.cz/games/283/SNES_01.gif" width="40%" height="40%">
+- NHL 96 = *hokej 1-2H*
+> <img src="https://i.ytimg.com/vi/zHD9nJjWIq0/maxresdefault.jpg" width="40%" height="40%">
+- Super Bomberman = *znič bombami nepřítele 1-4XH*
+> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/SNES_Super_Bomberman_%28Battle_Mode%29.png/200px-SNES_Super_Bomberman_%28Battle_Mode%29.png" width="40%" height="40%">
+- Super Bomberman 2 = *znič bombami nepřítele 1-4XH*
+> <img src="https://www.retrogames.cz/games/1365/SNES_01.gif" width="40%" height="40%">
+- Super Bomberman 3 = *znič bombami nepřítele 1-4XH*
+> <img src="https://www.retrogames.cz/games/1426/SNES_01.gif" width="40%" height="40%">
+- Super Mario All-Stars = *platformovka 1-2H*
+> <img src="https://www.retrogames.cz/games/764/SNES_01.gif" width="40%" height="40%">
+- Super Mario Kart = *závodní hra 1-2H*
+> <img src="https://i.ytimg.com/vi/AlAmXXNz5ac/hqdefault.jpg" width="40%" height="40%">
+- Super Mario RPG: Legend of the Seven stars = *RPG 1H*
+> <img src="https://img.delvenetworks.com/gdX9KjCLT1wmBYosX6fyt0/y6xWtauiTyYvr2apjvUgAw/aUL.540x302.jpeg" width="40%" height="40%">
+- Super Mario World = *platformovka 1-2H*
+> <img src="https://www.retrogames.cz/games/245/SNES_01.gif" width="40%" height="40%">
+- Super Mario World 2: Yoshi's Island = *platformovka 1H*
+> <img src="https://thehoganreviews.files.wordpress.com/2018/11/yoshis-island-2.jpg?w=994" width="40%" height="40%">
+- Super Metroid = *střílečka 1H*
+> <img src="https://i.ytimg.com/vi/yB317FOcU0Y/hqdefault.jpg" width="40%" height="40%">
+- Super Street Fighter II = *mlátička 1-8H*
+> <img src="https://www.retrogames.cz/games/919/SNES_01.gif" width="40%" height="40%">
+- Wolfenstein III = *střílečka 1H*
+> <img src="https://static.wikia.nocookie.net/wolfenstein/images/8/84/Hitlerdeathsnes.png/revision/latest?cb=20081211043233" width="40%" height="40%">
+  
 </details>
