@@ -16,7 +16,9 @@
 # Dostupné hry
 
 ## NES
-  
+
+<details>
+
 - Contra = *střílečka pro jednoho až dva hráče*
 > <img src="https://www.svetandroida.cz/media/2018/02/NES-hry-Contra.jpg" width="20%" height="20%">
 - Kirby's Adventure = *platformovka pro jednoho hráče*
@@ -39,3 +41,5 @@
 > <img src="https://www.retrogames.cz/games/1030/NES_03.gif" width="20%" height="20%">
 - Zelda II - The adventure of Link = *RPG pro jednoho hráče*
 > <img src="https://i.ytimg.com/vi/WQuRIrnD2y4/maxresdefault.jpg" width="20%" height="20%">
+
+</details>
