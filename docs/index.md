@@ -61,7 +61,8 @@
 - Mario & Luigi: Superstar Saga = *RPG 1H*
 > <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/MarioAndLuigiSuperstarSagaGBABattle.png/220px-MarioAndLuigiSuperstarSagaGBABattle.png" width="40%" height="40%"> 
 - Mario Kart: Super Circuit = *závodní hra 1-2H*
-> <img src="http://1.bp.blogspot.com/-2aQPnwX6uko/Tv66F6-BxqI/AAAAAAAAAms/fr_twzJTSR4/s1600/Mario+Kart+Super+Circuit.jpg" width="40%" height="40%">  
+> <img src="http://1.bp.blogspot.com/-2aQPnw
+  6uko/Tv66F6-BxqI/AAAAAAAAAms/fr_twzJTSR4/s1600/Mario+Kart+Super+Circuit.jpg" width="40%" height="40%">  
 - Pokemon: Emerald Version = *RPG 1H*
 > <img src="https://fs-prod-cdn.nintendo-europe.com/media/images/migration/games_7/screenshots/gameboy_advance/pokmon_emerald/pokmon_emerald_8.jpg" width="40%" height="40%"> 
 - Pokemon: FireRed Version = *RPG 1H*
@@ -152,11 +153,11 @@
 > <img src="https://www.retrogames.cz/games/283/SNES_01.gif" width="40%" height="40%">
 - NHL 96 = *hokej 1-2H*
 > <img src="https://i.ytimg.com/vi/zHD9nJjWIq0/maxresdefault.jpg" width="40%" height="40%">
-- Super Bomberman = *znič bombami nepřítele 1-4XH*
+- Super Bomberman = *znič bombami nepřítele 1-4H*
 > <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/SNES_Super_Bomberman_%28Battle_Mode%29.png/200px-SNES_Super_Bomberman_%28Battle_Mode%29.png" width="40%" height="40%">
-- Super Bomberman 2 = *znič bombami nepřítele 1-4XH*
+- Super Bomberman 2 = *znič bombami nepřítele 1-4H*
 > <img src="https://www.retrogames.cz/games/1365/SNES_01.gif" width="40%" height="40%">
-- Super Bomberman 3 = *znič bombami nepřítele 1-4XH*
+- Super Bomberman 3 = *znič bombami nepřítele 1-4H*
 > <img src="https://www.retrogames.cz/games/1426/SNES_01.gif" width="40%" height="40%">
 - Super Mario All-Stars = *platformovka 1-2H*
 > <img src="https://www.retrogames.cz/games/764/SNES_01.gif" width="40%" height="40%">
@@ -180,7 +181,35 @@
 ## Sega Genesis
 <details>
   
-- Cas = *střílečka 1H*
-> <img src="https://static.wikia.nocookie.net/wolfenstein/images/8/84/Hitlerdeathsnes.png/revision/latest?cb=20081211043233" width="40%" height="40%">
+- Castlevania: Blood Lines = *mlátička 1H*
+> <img src="https://cdn.vox-cdn.com/thumbor/El_3MPWKlY9FRqZwBowhWjJTQVs=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10445583/bloodlines1.png" width="40%" height="40%">
+- Contra: Hard Corps = *střílečka 1-2H*
+> <img src="https://www.retrogames.cz/games/681/Genesis_03.gif" width="40%" height="40%">
+- Golden Axe = *mlátička 1-2H*
+> <img src="https://www.bestoldgames.net/img/games/golden-axe/golden-axe-05.gif" width="40%" height="40%">
+- Michael Jackson's Moonwalker = *mlátička 1-2H*
+> <img src="https://i.ytimg.com/vi/-N68qvYFpTA/hqdefault.jpg" width="40%" height="40%">
+- Mortal Kombat = *mlátička 1-2H*
+> <img src="https://www.retrogames.cz/games/229/Genesis_02.gif" width="40%" height="40%">
+- Mortal Kombat II = *mlátička 1-2H*
+> <img src="https://www.retrogames.cz/games/229/Genesis_02.gif" width="40%" height="40%">
+- Shining Force II = *RPG 1H*
+> <img src="https://www.retrogamer.net/wp-content/uploads/2013/10/shiningforce2.jpg" width="40%" height="40%">  
+- Shinobi II: Return of the Ninja Master = *mlátička 1H*
+> <img src="https://www.gamespot.com/a/uploads/original/gamespot/images/2007/275/reviews/829027-941717_20071003_001.jpg" width="40%" height="40%">
+- Sonic & Knuckles = *platformovka 1H*
+> <img src="https://classicreload.com/sites/default/files/genesis-sonic-knuckles-sonic2-screenshot.png" width="40%" height="40%">
+- Sonic the Hedgehog = *platformovka 1H*
+> <img src="https://www.gamespot.com/a/uploads/original/gamespot/images/2006/323/reviews/766781-934134_20061120_002.jpg" width="40%" height="40%">
+- Sonic the Hedgehog 2 = *platformovka 1-2H*
+> <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/71163/ss_38ed63413c016589dba60eee5ff52b9da36f24ce.1920x1080.jpg?t=1603130365" width="40%" height="40%">
+- Sonic the Hedgehog 3 = *platformovka 1-2H*
+> <img src="https://www.retrogames.cz/games/350/Genesis_01.gif" width="40%" height="40%">
+- Street of Rage 2 = *mlátička 1-2H*
+> <img src="https://www.retrogames.cz/games/790/Genesis_01.gif" width="40%" height="40%">
+- Teenage Mutant Ninja Turtles: The Hyperstone Heist = *mlátička 1-2H*
+> <img src="https://www.cdh.cz/galerie/29777-3.jpg" width="40%" height="40%">
+- Ultimate Mortal Kombat 3 = *mlátička 1-8H*
+> <img src="https://www.retrogames.cz/games/604/Genesis_01.gif" width="40%" height="40%">
   
 </details>
