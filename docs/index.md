@@ -1,6 +1,9 @@
 # Hypocrite
+
 <img src="Hypocrite.png" width="40%" height="40%">
+
 # Autoři: [*Josef Blažek*](mailto:josefblazek004@gymuo.cz?subject=[HypocriteGuide]) a [*Viktor Adámek*](mailto:xadamek@gymuo.cz?subject=[HypocriteGuide])
+# Kontakt: awesomehypocrite@gmail.com
 
 # Návod k použití
 
@@ -14,6 +17,8 @@
 - Akci potvrdíte tlačítkem ***B*** a vrátíte se tlačítkem ***A***.
 - Nastavení a správa konzole je v bloku úplně vlevo.
 - Hry a aplikace jsou v pravé části rozřazené podle konzolí na které jsou hry určeny (NES, SNES, Genesis, ...).
+- Ze hry či aplikace se můžete dostat stisknutím tlačítka **Home*** či ***stisknutím obou joysticků***.
+- Zvuk můžete upravovat ***levým a pravým triggerem***.
 
 # Dostupné hry
 
