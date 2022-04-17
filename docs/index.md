@@ -3,7 +3,7 @@
 <img src="Hypocrite.png" width="40%" height="40%">
 
 # Autoři: [*Josef Blažek*](mailto:josefblazek004@gymuo.cz?subject=[HypocriteGuide]) a [*Viktor Adámek*](mailto:xadamek@gymuo.cz?subject=[HypocriteGuide])
-# Kontakt: [awesomehypocrite@gmail.com](mailto:awesomehypocrite@gmail.com?subject=[HypocriteGuide])
+# Kontakt: [*awesomehypocrite@gmail.com*](mailto:awesomehypocrite@gmail.com?subject=[HypocriteGuide])
 
 # Návod k použití
 
