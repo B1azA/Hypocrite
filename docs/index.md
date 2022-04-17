@@ -66,8 +66,7 @@
 - Mario & Luigi: Superstar Saga = *RPG 1H*
 > <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/MarioAndLuigiSuperstarSagaGBABattle.png/220px-MarioAndLuigiSuperstarSagaGBABattle.png" width="40%" height="40%"> 
 - Mario Kart: Super Circuit = *závodní hra 1-2H*
-> <img src="http://1.bp.blogspot.com/-2aQPnw
-  6uko/Tv66F6-BxqI/AAAAAAAAAms/fr_twzJTSR4/s1600/Mario+Kart+Super+Circuit.jpg" width="40%" height="40%">  
+> <img src="https://img.delvenetworks.com/gdX9KjCLT1wmBYosX6fyt0/HZFpnGCkTbAt7ISu5k5Ve8/XzQ.540x302.jpeg" width="40%" height="40%">  
 - Pokemon: Emerald Version = *RPG 1H*
 > <img src="https://fs-prod-cdn.nintendo-europe.com/media/images/migration/games_7/screenshots/gameboy_advance/pokmon_emerald/pokmon_emerald_8.jpg" width="40%" height="40%"> 
 - Pokemon: FireRed Version = *RPG 1H*
