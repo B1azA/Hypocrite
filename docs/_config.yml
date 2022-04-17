@@ -2,3 +2,12 @@ theme: jekyll-theme-cayman
 markdown: kramdown
 kramdown: 
   parse_block_html: true
+  
+ 
+author: Josef Blažek
+avatar: "https://m.abecedazahrady.dama.cz/Getfile.aspx?id_file=888330606"
+
+social-network-links:
+  email: "awesomehypocrite@gmail.com"
+
+url-pretty: "Hypocrite.com"
