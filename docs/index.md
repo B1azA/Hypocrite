@@ -17,7 +17,7 @@
 - Akci potvrdíte tlačítkem ***B*** a vrátíte se tlačítkem ***A***.
 - Nastavení a správa konzole je v bloku úplně vlevo.
 - Hry a aplikace jsou v pravé části rozřazené podle konzolí na které jsou hry určeny (NES, SNES, Genesis, ...).
-- Ze hry či aplikace se můžete dostat stisknutím tlačítka ***Home*** či ***stisknutím obou joysticků***.
+- Ze hry či aplikace se můžete dostat stisknutím tlačítka ***Home*** či ***stisknutím tlačítka select a start najednou***.
 - Zvuk můžete upravovat ***levým a pravým triggerem***.
 
 # Dostupné hry
